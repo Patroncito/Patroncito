@@ -1,4 +1,4 @@
-- 👀 UX/UI Designer 
+- 👀 iOS Engineer | UX/UI Designer 
 - 
 - 📫 How to reach me ... 
 - 1️⃣ E-Mail : C9AlfonsoPatron@hotmail.com 
