@@ -1,4 +1,7 @@
 # 💫 About Me:
+<!--Introduction -->
+📚 I'm a **Software Engineer** , i have developed mobile and web applications for the educational sector, as well as in the private sector, focusing on the development of mobile platforms through programming in the native language.
+
 
 ### Skills for Work
 <div>
