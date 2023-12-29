@@ -2,6 +2,62 @@
 <!--Introduction -->
 📚 I'm a **Software Engineer** , i have developed mobile and web applications for the educational sector, as well as in the private sector, focusing on the development of mobile platforms through programming in the native language.
 
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .skills-container {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .skills-category {
+            margin-bottom: 20px;
+        }
+
+        .skills-category h3 {
+            margin-bottom: 10px;
+        }
+
+        .skills-icons {
+            display: flex;
+        }
+
+        .skills-icons img {
+            width: 42px;
+            margin-right: 10px;
+        }
+    </style>
+
+
+
+
+ <div class="skills-container">
+        <div class="skills-category">
+            <h3>Skills for Work</h3>
+            <div class="skills-icons">
+                <img src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/>
+                <!-- Agrega el resto de las imágenes aquí -->
+            </div>
+        </div>
+
+ <div class="skills-category">
+            <h3>Skills for Side Projects</h3>
+            <div class="skills-icons">
+                <!-- Repite el mismo proceso para la segunda categoría -->
+            </div>
+        </div>
+
+ <div class="skills-category">
+            <h3>Currently Getting Familiar</h3>
+            <div class="skills-icons">
+                <!-- Repite el mismo proceso para la tercera categoría -->
+            </div>
+        </div>
+    </div>
+
 
 ### Skills for Work
 <div>
