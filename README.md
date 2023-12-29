@@ -25,4 +25,3 @@
 
 ------
 
-Credit: [Aneal07](https://github.com/patroncito)
