@@ -16,7 +16,6 @@
 
   <img  align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patroncito&theme=dracula" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patroncito&theme=dracula"/> 
 </td>
 
 <td width="50%" align="center">
