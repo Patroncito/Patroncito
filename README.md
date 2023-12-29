@@ -2,45 +2,20 @@
 <!--Introduction -->
 📚 I'm a **Software Engineer** , i have developed mobile and web applications for the educational sector, as well as in the private sector, focusing on the development of mobile platforms through programming in the native language.
 
-<style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-
-        .skills-container {
-            display: flex;
-            flex-direction: column;
-        }
-
-        .skills-category {
-            margin-bottom: 20px;
-        }
-
-        .skills-category h3 {
-            margin-bottom: 10px;
-        }
-
-        .skills-icons {
-            display: flex;
-        }
-
-        .skills-icons img {
-            width: 42px;
-            margin-right: 10px;
-        }
-    </style>
-
-
 
 
  <div class="skills-container">
         <div class="skills-category">
             <h3>Skills for Work</h3>
             <div class="skills-icons">
-                <img src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/>
-                <!-- Agrega el resto de las imágenes aquí -->
-            </div>
+	<img width="42" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/>
+	<img width="42" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/>
+	<img width="42" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/>
+	<img width="42" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>
+	<img width="42" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/>
+	<img width="42" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+	<img width="42" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+	<img width="42" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>            </div>
         </div>
 
  <div class="skills-category">
@@ -61,14 +36,7 @@
 
 ### Skills for Work
 <div>
-	<img width="42" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/>
-	<img width="42" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" alt="Kotlin" title="Kotlin"/>
-	<img width="42" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/>
-	<img width="42" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>
-	<img width="42" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/>
-	<img width="42" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
-	<img width="42" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
-	<img width="42" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
+	
 </div>
 
 ### Skills for Side Projects
