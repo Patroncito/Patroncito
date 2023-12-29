@@ -29,7 +29,7 @@
 <tr border="none">
 <td width="50%" align="center">
 
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=LachlanDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=patroncito&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
   <br></br>
 </td>
 
