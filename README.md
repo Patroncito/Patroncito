@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-
+<h1>technologies to work</h1>
 <div align="center">
 	<img width="42" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/>
 	<img width="42" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>
