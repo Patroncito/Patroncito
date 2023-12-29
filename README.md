@@ -1,12 +1,7 @@
 # 💫 About Me:
 
 
-# 💻 Tech Stack:
-<div align="center">
-</code>
-	<code><img width="20" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	
-</div>
+
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -29,6 +24,8 @@
 </p>        
 <!--- stats (end) -->
 
+# 💻 Tech Stack:
+<div align="center">
 
 ### Skills for Work
 <code><img width="20" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>/code>
@@ -58,6 +55,10 @@
 
 
 ---
+
+	
+</div>
+
 
 
 
