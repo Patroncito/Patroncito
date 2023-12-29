@@ -30,7 +30,11 @@
 </div>
 
 ### Currently Getting Familiar
-
+<div>
+	<img width="42" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+	<img width="42" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
+	<img width="42" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/>
+</div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
