@@ -35,22 +35,10 @@
 	<img width="42" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/>
 </div>
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=patroncito&theme=radical&include_all_commits=true&count_private=true)
-  <br></br>
-</td>
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=patroncito&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
-</table>
-</p>        
+</td>
 
 
 <!-- Connect with me -->
