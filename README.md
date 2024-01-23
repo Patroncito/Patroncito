@@ -2,7 +2,7 @@
 <!--Introduction -->
 📚 I'm a **Software Engineer** , i have developed mobile and web applications for the educational sector, as well as in the private sector, focusing on the development of mobile platforms through programming in the native language. 
 
-<a href="https://alfonsopatron.tech/" target="blank">Portafolio<img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+<a href="https://alfonsopatron.tech/" target="blank">Portafolio<img align="center" src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="hashnode" height="50" width="50" /></a>
 
 ### Skills for Work
 <div> 
