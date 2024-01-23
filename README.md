@@ -4,7 +4,7 @@
 <h2>My Website</h2>
 <a href="https://alfonsopatron.tech/" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="hashnode" height="50" width="50" /></a>
 
-<td width="50%" align="center">
+<td width="50%" align="center" style="display: flex margin-top-10">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=patroncito&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 
