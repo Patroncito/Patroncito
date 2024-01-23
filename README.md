@@ -1,6 +1,9 @@
 # 💫 About Me:
 <!--Introduction -->
-📚 I'm a **Software Engineer** , i have developed mobile and web applications for the educational sector, as well as in the private sector, focusing on the development of mobile platforms through programming in the native language. 
+📚 Mexican and software engineer, developer of native mobile applications, with more than 2
+years of experience participating in teams (iOS, Android) in the design, development and
+implementation of solutions using agile methodologies (SCRUM, AGILE). Also teaching
+programming for children using Scratch for 1 year.
 <h2>My Website</h2>
 <a href="https://alfonsopatron.tech/" target="blank"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="hashnode" height="50" width="50" /></a>
 
